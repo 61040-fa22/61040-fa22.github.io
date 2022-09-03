@@ -2,7 +2,7 @@
 layout: assignment
 title:  "Assignment 0: Creating a Personal Website using Jekyll"
 due_date: 2022-09-11 23:59:00 -0400
-date:   2022-08-30 23:59:00 -0400
+date:   2022-01-01 23:59:00 -0400
 categories: jekyll update
 ---
 
