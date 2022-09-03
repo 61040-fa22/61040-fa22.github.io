@@ -55,6 +55,4 @@ Hi, I’m Annie! I graduated last year and am now MEnging at MIT. I took this cl
 
 Hi, I'm Victor, a senior in courses 6-3 and 18. I took this class last fall, enjoyed designing applications with my teammates, and even took some insights into my internship last summer! I also do square dancing with Tech Squares, and head the MIT osu! club. Looking forward to working with you all!
 
-[temporary image (me when software fails to work)]
-
 ![victor.png](/assets/instructor-photos/victor.png){:width="200"}
