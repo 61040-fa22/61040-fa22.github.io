@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "Assignment 1"
-date:   2022-08-31 20:53:12 -0400
+layout: assignment
+title:  "Assignment 1: Twitter Analysis & Critique"
+due_date: 2022-09-18 23:59:00 -0400
+date:   2022-08-31 23:59:00 -0400
 categories: jekyll update
 ---
-# Assignment 1: Twitter Analysis & Critique
+
+*This assignment has not been released.*
 
 <!--
 Twitter, the social networking platform, has fallen on hard times. It has [missed expectations](https://www.cnbc.com/2022/02/10/twitter-twtr-q4-2021-earnings.html) for user growth and revenue, has [struggled to ship](https://www.theverge.com/2022/3/10/22970043/twitter-product-leadership-interview) compelling new features for several years, and has a [problematic track record](https://wapo.st/3KhcFdP) of protecting user security and privacy. 

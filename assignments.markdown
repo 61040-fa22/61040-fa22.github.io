@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Assignments
-layout: home
-list_title: —
+layout: assignments
 ---
