@@ -1,7 +1,7 @@
 ---
 title: What I wish I’d known about website builders
 layout: page
-exclude: true
+parent: Resources
 ---
 
 *Daniel Jackson*<br>
