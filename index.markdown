@@ -12,7 +12,7 @@ This is the homepage for the class and where you'll find each assignment as it's
 
 | Date        | Notes            | Topic                            | Lecturer | Assignment out                              | Reading group |
 | ----------- | ---------------- | -------------------------------- | -------- | ------------------------------------------- | ------------- |
-| Wed, Sep 7  | First class      | Intro to software design         | DJ       | [A0: Jekyll Site](/jekyll/update/2022/01/01/assignment-0.html)                             |               |
+| Wed, Sep 7  | First class      | Intro to software design         | DJ       | [A0: Jekyll Site](/jekyll/update/2022/01/02/assignment-0.html)                             |               |
 | Thu, Sep 8  | First recitation | Markdown/Jekyll + Themes         |          |                                             | Ch 1          |
 | Mon, Sep 12 | Class            | Design for an audience           | AS       | A1: Twitter Critique                        |               |
 | Wed, Sep 14 | Class            | Need finding                     | AS       |                                             |               |
