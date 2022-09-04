@@ -8,3 +8,13 @@ $content-width:    1050px !default;
 .post-content {
     overflow-x: scroll;
 }
+
+table tr:nth-child(3n+1) {
+    background-color: #fff;
+}
+table tr:nth-child(3n+2) {
+    background-color: #f7f7f7;
+}
+table tr:nth-child(3n+3) {
+    background-color: #fff;
+}
