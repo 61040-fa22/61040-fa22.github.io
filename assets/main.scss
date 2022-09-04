@@ -4,3 +4,7 @@
 $content-width:    1050px !default;
 
 @import "minima";
+
+.post-content {
+    overflow-x: scroll;
+}
