@@ -23,7 +23,7 @@ This guide tells you the main things you need to know about the class and how it
 
 **Readings**. For each lecture, a few readings are required. These provide essential background, are available online, and should take minimal time.
 
-**Design reading group**. A new book, [*The Essence of Software*](essenceofsoftware.com), on which much of the class material is based, is a *recommended* but not required text. For students interested in delving more deeply into the ideas of the class, Daniel Jackson will host an optional weekly discussion group about software design based on assigned readings mostly from the book. Pizza will be served.
+**Design reading group**. A new book, [*The Essence of Software*](https://essenceofsoftware.com/), on which much of the class material is based, is a *recommended* but not required text. For students interested in delving more deeply into the ideas of the class, Daniel Jackson will host an optional weekly discussion group about software design based on assigned readings mostly from the book. Pizza will be served.
 
 **Listeners**. Listeners for the class are welcome and will have access to all the materials. Listeners cannot join project teams or submit work for grading.
 

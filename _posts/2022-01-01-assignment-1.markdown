@@ -1,11 +1,14 @@
 ---
-layout: post
-title:  "Assignment 1"
-date:   2022-08-31 20:53:12 -0400
+layout: assignment
+title:  "Assignment 1: Twitter Analysis & Critique"
+due_date: 2022-09-18 23:59:00 -0400
+date:   2022-01-01 23:59:00 -0400
 categories: jekyll update
 ---
-# Assignment 1: Twitter Analysis & Critique
 
+*This assignment has not been released.*
+
+<!--
 Twitter, the social networking platform, has fallen on hard times. It has [missed expectations](https://www.cnbc.com/2022/02/10/twitter-twtr-q4-2021-earnings.html) for user growth and revenue, has [struggled to ship](https://www.theverge.com/2022/3/10/22970043/twitter-product-leadership-interview) compelling new features for several years, and has a [problematic track record](https://wapo.st/3KhcFdP) of protecting user security and privacy. 
 
 As an intrepid new designer, you sense an opportunity for a new app that you call _Fritter_ — a web service for frittering your time away, that clones the best parts of Twitter and extends it in exciting new ways. But before you get deep into designing and coding Fritter, you want to make sure that your hunch is well-grounded in user needs, and that it won't suffer from the same social and ethical problems.
@@ -52,3 +55,4 @@ The teaching staff will grade your assignment using the following rubric. This a
 3. During your interviews, remember that your participants are not designers themselves. So directed questions like _"Why do you use Twitter?"_ or _"What feature would keep you more engaged on Twitter?"_ are unlikely to yield very interesting answers. Instead, keep your participants focused on describing their experiences using Twitter or other social networking platforms (e.g., have them recount stories about how and when they use them). 
 4. Semi-structured: before conducting an interview, brainstorm a set of questions you're interested in hearing more about. Use these questions to spark a conversation, and guide the interview. But also follow your own instincts during the conversation — for example, if the participant is recounting something interesting, feel free to ask follow-up questions rather than rigidly following your list of questions. The goal of the interviews is to discover interesting, unexpected insights that you may not have thought of by yourself.
 5. Take detailed notes. It can be tricky to do this in the moment while still being engaged in the conversation. So, one option you might consider is recording the audio of your conversation. If you choose to do this, **you must solicit written consent from participants**. After the interview, you can then listen to the recording and take notes about things that stick out.
+-->
