@@ -7,7 +7,9 @@ As the [class guide](https://61040-fa22.github.io/about/) says, this class inclu
 
 The reading group meets weekly on Thursdays from 5 to 6 pm, starting September 8th and running through November 3rd. The location will be 32-370 every week except Sep 15, which will be 32-G575, and Sep 29, which will be 32-D507.
 
-This schedule indicates which chapters of *The Essence of Software* will be discussed at each reading group meeting.
+Please fill out this RSVP form each week that you plan to attend if you would like pizza: [https://forms.gle/TU39L7CWMbueub7e8](https://forms.gle/TU39L7CWMbueub7e8). 
+
+This schedule indicates which chapters of *The Essence of Software* will be discussed at each reading group meeting. The first chapter is a short and easy reading, and you can download it [here](https://essenceofsoftware.com/posts/sample-chapter/).  
 
 | Date   | Chapter |
 | ------ | ----------------- |
