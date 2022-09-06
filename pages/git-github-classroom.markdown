@@ -8,7 +8,7 @@ parent: Resources
 
 # GitHub
 
-**Please be aware that we will be using github.com instead of github.mit.edu.** You should have all been invited to the [course's GitHub Classroom page](https://github.com/61040-fa22). Please check your account and let us know if you haven't been added! You may find it more convenient to add your MIT email address(es) to your [personal GitHub account](https://github.com/settings/emails) (see this [doc](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address#setting-your-commit-email-address-on-github) for more information) so that you can work more seamlessly across the two GitHubs with other classes. 
+**Please be aware that we will be using github.com instead of github.mit.edu.** You will all soon be invited to the [course's GitHub Classroom page](https://github.com/61040-fa22). <!-- Please check your account and let us know if you haven't been added! --> You may find it more convenient to add your MIT email address(es) to your [personal GitHub account](https://github.com/settings/emails) (see this [doc](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address#setting-your-commit-email-address-on-github) for more information) so that you can work more seamlessly across the two GitHubs with other classes.
 
 
 # SSH Tokens
@@ -38,11 +38,9 @@ If you are not familiar with Git, or you would like to try a more usable tool, c
 
 We will be using GitHub Classroom to manage coding assignments, such as Fritter and the final project. This is the flow for those assignments.
 
-
-
 1. Make sure you are logged into your github.com account and not github.mit.edu.
 2. In the assignment page, under Submission, there is an assignment link. Follow this link to start the process of accepting the assignment and creating your repo.
-3. For a Fritter assignment, you will be prompted to accept.
+3. For an individual assignment, you will be prompted to accept.
 4. For the final project, you accept these by either creating or choosing a team.
     1. Your team name should be [partner1-github-username]-[partner2-github-username]-[etc...]. The usernames should be ordered alphabetically; for example, "alex-brenda-clara-diane". The first person from your team to accept the assignment should create the team and others should look for the team in the team list and join.
 5. After you accept the assignment, a git repo will be created for you for the assignment and this is what you will use for submitting code for grading.
