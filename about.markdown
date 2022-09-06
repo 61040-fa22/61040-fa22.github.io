@@ -21,8 +21,6 @@ This guide tells you the main things you need to know about the class and how it
 
 **Team project.** The second half of the term is spent on a team project. Teams will generally have four members; you will be able to choose your teammates. You will also be able to choose what to build. We expect you to build _authentic apps_ that bring real value to real users, ideally serving communities beyond the student community at MIT. It’s never too early to start brainstorming!
 
-**Readings**. For each lecture, a few readings are required. These provide essential background, are available online, and should take minimal time.
-
 **Design reading group**. A new book, [*The Essence of Software*](https://essenceofsoftware.com/), on which much of the class material is based, is a *recommended* but not required text. For students interested in delving more deeply into the ideas of the class, Daniel Jackson will host an optional weekly discussion group about software design based on assigned readings mostly from the book. Pizza will be served.
 
 **Listeners**. Listeners for the class are welcome and will have access to all the materials. Listeners cannot join project teams or submit work for grading.
@@ -54,9 +52,11 @@ There's another take on this. While most people in industry haven't learned conc
 
 Our goal is for this class to for you to acquire skills, insights and sensibilities that will serve you well for your entire life. Knowing how to build a web app may help you get a summer job, but remember that’s not why you’re taking this class.
 
-To make the class as effective as possible, we want it to be a learning community. We, the staff, will treat you, the students, as grownups. We won’t play tricks to get you to come to class, penalize you for small mistakes, or assign work just for the sake of it. Everything we ask you to do will be for your benefit and the benefit of your peers.
+To make the class as effective as possible, we want it to be a _learning community_. We have explicitly designed the class such that you do not feel you are in competition with one another. Great design in a very social activity: it occurs when you're inspired by someone else's work, remix it into your own, or when someone else offers a generous and constructive critique of your work to help push it further. 
 
-In line with this approach, we’re experimenting with a new idea. Instead of grading class participation, we’ll assign a portion of your grade to some activities that actively support the class. More on that below.
+A healthy learning community is also centered on _trust_. We, the staff, will treat you, the students, as grownups. We won’t play tricks to get you to come to class, penalize you for small mistakes, or assign work just for the sake of it. Everything we ask you to do will be for your benefit and the benefit of your peers.
+
+In line with this approach, we’re experimenting with a new idea. Instead of grading class participation, we’ll assign a portion of your grade to activities that you can engage in to actively support your peers and improve their work. More on that below.
 
 ## Attendance
 
@@ -67,7 +67,7 @@ Why do we insist on this? First, we’ve found that students who attend lecture 
 We put a lot of work into making lectures engaging and educational, and we don’t believe that watching a video is a substitute for being there in person, joining your peers on class activities and participating in discussions. If you have suggestions for how to improve lectures, we will of course be glad to receive them.
 
 ## Collaboration
-Design is all about collaboration, so it’s encouraged in all aspects of the class. You can talk with anyone about anything; you can share ideas; and you can use other people’s ideas in your own submissions. The only constraint is that you must write up your work by yourself. This ensures that you really understand it.
+Design is all about collaboration, so we encourage it in all aspects of the class. You can talk with anyone about anything; you can share ideas; and you can use other people’s ideas in your own submissions with appropriate credit. The only constraint is that you must write up your work by yourself (this ensures that you really understand it!) and note the set of people you collaborated with.
 
 To help you find partners to collaborate with, you can use the MIT [psetpartners app](https://psetpartners.mit.edu).
 
@@ -76,13 +76,13 @@ The class will run on an honor code. We will assume that you are not cheating by
 You are free to use any third-party code, whether as libraries or code fragments, and to adopt any idea you find online or in a book, so long as it is publicly available and appropriately cited (see the [section on code](http://integrity.mit.edu/handbook/writing-code) in the MIT [handbook](https://integrity.mit.edu) on academic integrity for details). 
 
 ## Class contributions
-10% of your grade will be allotted to constructive contributions that you make that benefit the class as a whole.
+10% of your grade will be allotted to constructive contributions that you make that benefit each other and the class as a whole.
 
 We’ll recognize these kinds of contributions:
 
-- **Blog posts** (2%). You write a short blog post (of 200-500 words) about an idea or example that was presented in class. Your post must appear by midnight on the same day as the class, so it can be used by other students reviewing the class material. You’ll publish it on your portfolio website, and will post a link to the post on the class forum. Any medium is acceptable; in place of text, you could produce a sketchnote, draw a comic strip, make a TikTok video, write a poem, etc. Work that isn't word-based should be of equivalent effort to a 200-500 word blog post.
-- **Share a design idea** (2%). You write a short summary of a design idea and share it in the class forum.
-- **Review a design idea** (2%). You write a review of another student’s design idea and share it in the class forum.
+- **Blog posts** (2%). Write a short blog post (of 200-500 words) about an idea or example that was presented in class. Your post must appear by midnight on the same day as the class, so it can be used by other students reviewing the class material. You’ll publish it on your portfolio website, and will post a link to the post on the class forum. Any medium is acceptable; in place of text, you could produce a sketchnote, draw a comic strip, make a TikTok video, write a poem, etc. Work that isn't word-based should be of equivalent effort to a 200-500 word blog post.
+- **Share a design idea** (2%). Share a design idea you're working on in the class forum. Your forum post should include a short written summary of the ideas, as well as anything else that can help others understand what you're working on (e.g., an annotated screenshot, or quick screen recording). You might also choose to include specific prompts to help guide the critique — i.e., what specific things would you like feedback on?
+- **Review a design idea** (2%). Offer a review of another student’s design idea and share it in the class forum. Ideally, your review follows the [I like / I wish / What if](https://public-media.interaction-design.org/pdf/I-Like-I-Wish-What-If.pdf) format and offers both generous and constructive, actionable feedback. 
 - **Answer a design question** (0.5%). You write a substantive answer to a question on a design topic asked by a student in the forum, or provide help with a collection of short answers in a longer thread.
 - **Answer a programming question** (0.25%). You help another student by answering a programming question, perhaps by debugging a short code sample, or explaining how to use an API function.
 
@@ -93,11 +93,11 @@ It’s your responsibility to list your contributions in your portfolio so the s
 ## Student design portfolios
 All of your individual work for the term will be recorded in a static website that will act both as a design notebook and (when completed) as a portfolio of your work.
 
-**Technology.** Your website will be implemented with Jekyll and hosted on Github Pages. An advantage of using a static website generator like Jekyll is that you can use a predesigned theme, and write your content in markdown so no knowledge of HTML and CSS is needed. But you will also be free to design your own visual appearance if you want to (by editing the HTML of the layout files and the CSS rules).
+**Technology.** Your website will be implemented with [Jekyll](https://jekyllrb.com) and hosted on [Github Pages](https://pages.github.com). An advantage of using a static website generator like Jekyll is that you can use a predesigned theme, and write your content in markdown so no knowledge of HTML and CSS is needed. But you will also be free to design your own visual appearance if you want to (by editing the HTML of the layout files and the CSS rules).
 
 **Submission of work**. No explicit submission process is needed for your assignments. You’ll provide the URL of your website early on, and your TAs will revisit the same URL to look at each piece of work. Comments and grades will be available on the class’s Canvas site. 
 
-**Organization.** This is a design class, so won’t specify how you organize or structure your site: that’s up to you. If your TA finds it hard to locate your work, you can expect your grade to be affected. One structural recommendation: if you choose to represent a large piece of work (for example, a whole assignment) as a single page, make sure that the sections have distinct URLs.
+**Organization.** This is a design class, so we won’t specify how you organize or structure your site — that’s up to you! If your TA finds it hard to locate your work, you can expect your grade to be affected. One structural recommendation: if you choose to represent a large piece of work (for example, a whole assignment) as a single page, make sure that the sections have distinct URLs.
 
 **Versioning.** Obviously, we want you to feel free to make changes to your website, to correct errors, add new ideas, respond to reviews, and so on. But it would wreak havoc if you were to edit a page your TA is grading. So we require that once a piece of work is submitted, it not be modified **ever** again. To make a change to a piece of work, you should first make a copy, and then provide links on your site to both the old and new versions. 
 
@@ -117,7 +117,7 @@ Once your slack days have run out, a late submission will cost 10% per day. So i
 
 You should plan to use your slack days to deal with scheduling issues that you anticipate, such as interviews, conference trips or special family occasions.
 
-In the case of emergencies or illness, we will obviously grant extensions. It is your responsibility to obtain a letter from a dean that specifies explicitly how many days extension they believe you should be granted.
+In the case of emergencies or illness, we will obviously grant extensions. **It is your responsibility to obtain a letter from an [Student Support Services](https://studentlife.mit.edu/s3) (S3) dean that specifies explicitly how many days extension they believe you should be granted.**
 
 Sadly, some students find that even with extensions they are unable to make adequate progress. If, just prior to the team project, your class grade is not a C or better, you will not be able to join a team project team. Instead, you will be able to use the rest of the term to complete the individual assignments, which must be handed in one week before the end of term. Your final grade will be one letter grade lower than what it would have been if all your assignments had been submitted on time.
 
@@ -125,7 +125,7 @@ Sadly, some students find that even with extensions they are unable to make adeq
 
 Some general advice:
 
-- **Get started early**. We know you’re busy and have to juggle many classes and tasks. But don’t wait until the day an assignment is due to start thinking about it. That has will (a) make you stressed, (b) give you fewer chances to get help, and (c) lose the advantage of mulling a problem over in the back of your mind. So try and get started early on, and figure out what you’ll need to do, and what help you might need.
+- **Get started early**. We know that 6.1040 isn't your only obligation. You’re busy and have to juggle many other classes and other responsibilities. But don't underestimate the time 6.1040 assignments will take — they can look deceptively straightforward. don’t wait until the day an assignment is due to start thinking about it. That has will (a) make you stressed, (b) give you fewer chances to get help, and (c) lose the advantage of mulling a problem over in the back of your mind. So try and get started early on, and figure out what you’ll need to do, and what help you might need.
 - **Ask for help**. Don’t be shy to ask the staff for help in office hours, or to post questions on the class forum. In our experience, students who ask for help get better grades.
 
 ## Getting Help

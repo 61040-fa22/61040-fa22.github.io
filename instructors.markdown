@@ -9,6 +9,12 @@ I’m a prof of computer science. I research software design, with a focus on us
 
 ![prof_j.jpg](/assets/instructor-photos/prof_j.jpg){:width="200"}
 
+**Arvind Satyanarayan (Lecturer)**
+
+Hi folks, I'm Arvind (he/him) and a faculty member in computer science. I lead the [MIT Visualization Group](http://vis.csail.mit.edu) where we study various aspects of data visualization including developing new tools for authoring visualizations, applying visualization to interpret machine learning models, and studying how to make visualizations accessible to blind and low vision people. I'm excited for our semester together because Daniel and I have spent a lot of time rethinking how to better distill the core idea of this class: design is a critical part of computer science, and good design requires just as much rigor analysis, creativity, and thoughtfulness as algorithmic implementation. I'm looking forward to getting to know you all — please don't be a stranger, and feel free to reach out if you'd ever like to chat (about the class, or other things more generally)!
+
+![arvindsatya.jpg](/assets/instructor-photos/arvindsatya.jpg){:width="200"}
+
 **Shuli Jones (TA)**
 
 Hi, I’m Shuli (they/them)! I graduated last spring and am now an MEng student doing my thesis with Professor Satyanarayan on making data visualizations more accessible. In my spare time, I like to read (anything but especially SFF) and do different kinds of puzzles. I’m really excited to be TAing this class and I’m very much here for anything that you need.
