@@ -3,9 +3,7 @@ title: Schedule
 layout: page
 ---
 
-L - Lecture
-
-R - Recitation
+L - Lecture / R - Recitation
 
 | Date        | Topic                               | Assignment out                              | Reading group |
 | ----------- | ----------------------------------- | ------------------------------------------- | ------------- |
