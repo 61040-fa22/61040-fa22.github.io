@@ -6,7 +6,7 @@ layout: page
 
 | Date        | Topic                               | Assignment out                              | Reading group |
 | ----------- | ----------------------------------- | ------------------------------------------- | ------------- |
-| Wed, Sep 7  | L: Intro to software design         | A0: Jekyll Site                             |               |
+| Wed, Sep 7  | L: Intro to software design         | [A0: Jekyll Site](/jekyll/update/2022/01/02/assignment-0)                             |               |
 | Thu, Sep 8  | R: Markdown/Jekyll + Themes         |                                             | Ch 1          |
 | Mon, Sep 12 | L: Design for an audience           | A1: Twitter Critique                        |               |
 | Wed, Sep 14 | L: Need finding                     |                                             |               |
