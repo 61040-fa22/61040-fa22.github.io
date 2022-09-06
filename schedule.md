@@ -20,7 +20,7 @@ layout: page
 | Mon, Oct 3  | L: Application state                | A4a: Fritter backend I, A5a: Fritter review |               |
 | Wed, Oct 5  | L: Relational DBs + Schema Design   |                                             |               |
 | Thu, Oct 6  | R: SQL and RDBs                     |                                             | Ch 9          |
-| Mon, Oct 10 | No class                            | A5b: Fritter refinement                     |               |
+| Mon, Oct 10 | *No class*                            | A5b: Fritter refinement                     |               |
 | Wed, Oct 12 | L: Modularity decisions             |                                             |               |
 | Thu, Oct 13 | R: RESTful APIs                     |                                             | Ch 10         |
 | Mon, Oct 17 | L: TBD                              | A4b: Fritter backend II                     |               |
@@ -33,7 +33,7 @@ layout: page
 | Wed, Nov 2  | L: Design studio                    |                                             |               |
 | Thu, Nov 3  | R: Vue II                           |                                             | Ch 8          |
 | Mon, Nov 7  | L: Pitching projects                | Project diverge                             |               |
-| Wed, Nov 9  | TBD                                 |                                             |               |
+| Wed, Nov 9  | L: TBD                              |                                             |               |
 | Thu, Nov 10 | R: Project problem analysis         |                                             |               |
 | Mon, Nov 14 | L: Project pitches                  | Project converge                            |               |
 | Wed, Nov 16 | L: Project pitches                  |                                             |               |
