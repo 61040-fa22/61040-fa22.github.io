@@ -16,11 +16,6 @@ parent: Resources
 In order to clone the repositories we provide to you and push your code to them, you will need to create an SSH token on your machine and add it to GitHub to verify your identity. Visit the [keys settings page](https://github.mit.edu/settings/keys) on GitHub and follow the instructions to add an SSH key.
 
 
-# Gitless
-
-If you are not familiar with Git, or you would like to try a more usable tool, consider using [Gitless](http://gitless.com/), a version of Git that fixes most of the egregious problems that cause trouble for Git users and is compatible with Git.
-
-
 ## Basic Git Commands
 
 **Clone:** `git clone <repository-name>`
