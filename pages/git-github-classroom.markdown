@@ -16,11 +16,6 @@ parent: Resources
 In order to clone the repositories we provide to you and push your code to them, you will need to create an SSH token on your machine and add it to GitHub to verify your identity. Visit the [keys settings page](https://github.mit.edu/settings/keys) on GitHub and follow the instructions to add an SSH key.
 
 
-# Gitless
-
-If you are not familiar with Git, or you would like to try a more usable tool, consider using [Gitless](http://gitless.com/), a version of Git that fixes most of the egregious problems that cause trouble for Git users and is compatible with Git.
-
-
 ## Basic Git Commands
 
 **Clone:** `git clone <repository-name>`
@@ -42,7 +37,7 @@ We will be using GitHub Classroom to manage coding assignments, such as Fritter 
 2. In the assignment page, under Submission, there is an assignment link. Follow this link to start the process of accepting the assignment and creating your repo.
 3. For an individual assignment, you will be prompted to accept.
 4. For the final project, you accept these by either creating or choosing a team.
-    1. Your team name should be [partner1-github-username]-[partner2-github-username]-[etc...]. The usernames should be ordered alphabetically; for example, "alex-brenda-clara-diane". The first person from your team to accept the assignment should create the team and others should look for the team in the team list and join.
+    - Your team name should be [partner1-github-username]-[partner2-github-username]-[etc...]. The usernames should be ordered alphabetically; for example, "alex-brenda-clara-diane". The first person from your team to accept the assignment should create the team and others should look for the team in the team list and join.
 5. After you accept the assignment, a git repo will be created for you for the assignment and this is what you will use for submitting code for grading.
 6. After you are done with the assignment and all your code has been pushed (including a filled out readme.md if applicable), you will deploy your work, then go to your Jekyll site and add both the repo link and your site link.
 
