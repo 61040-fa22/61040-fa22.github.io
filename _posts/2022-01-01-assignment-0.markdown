@@ -28,4 +28,6 @@ Your first assignment for 6.1040 is to create a minimal personal website that yo
 
 ## Submission
 
-For this assignment only, you will submit your website URL via [this Google Form](https://forms.gle/s7qWBBJQJkp2Z3ha7). For future assignments, there will be no explicit submission process, and TAs will revisit your URL to find your work. For more information on the submission process, please see the corresponding section of the [class guide](https://61040-fa22.github.io/about/).
+For this assignment only, you will submit your website URL via [this submission form](https://forms.gle/s7qWBBJQJkp2Z3ha7). For future assignments, there will be no explicit submission process, and TAs will revisit your URL to find your work. For more information on the submission process, please see the corresponding section of the [class guide](https://61040-fa22.github.io/about/).
+
+*Optional*: We welcome you to give us feedback on this assignment via [this feedback form](http://tiny.cc/61040-fa22-feedback).
