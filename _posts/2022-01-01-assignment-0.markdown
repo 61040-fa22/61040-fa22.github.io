@@ -1,9 +1,9 @@
 ---
 layout: assignment
 title:  "Assignment 0: Creating a Personal Website using Jekyll"
+categories: assignments
 due_date: 2022-09-11 23:59:00 -0400
 date:   2022-01-01 23:59:00 -0400
-categories: jekyll update
 ---
 
 Your first assignment for 6.1040 is to create a minimal personal website that you will use to submit assignments for this class. To do this, you will use a static site generator called Jekyll. 
