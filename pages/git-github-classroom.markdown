@@ -39,7 +39,7 @@ We will be using GitHub Classroom to manage coding assignments, such as your por
 4. For the final project, you accept these by either creating or choosing a team.
     - Your team name should be [partner1-github-username]-[partner2-github-username]-[etc...]. The usernames should be ordered alphabetically; for example, "alex-brenda-clara-diane". The first person from your team to accept the assignment should create the team and others should look for the team in the team list and join.
 5. After you accept the assignment, a git repo will be created for you for the assignment and this is what you will use for submitting code for grading.
-6. Once your repo is created, **go to the Settings tab of your repo, and change the repository name (under General) to match the form** `[kerberos]-portfolio` (or `[kerberos]-fritter` for the Fritter assignment). This is so the repo has an identifiable name.
+6. Once your repo is created, **go to the Settings tab of your repo, and change the repository name (under General) to match the form** `portfolio-[kerberos]` (or `fritter-[kerberos]` for the Fritter assignment). This is so the repo has an identifiable name.
 7. After you are done with the assignment and all your code has been pushed (including a filled out readme.md if applicable), you will deploy your work, then go to your Jekyll site and add both the repo link and your site link.
 
 We will also be using GitHub Classroom to give feedback on assignment code. Your final grades are posted on Canvas. Here is the flow for viewing assignment feedback on GitHub:
