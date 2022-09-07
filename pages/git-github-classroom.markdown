@@ -8,7 +8,7 @@ parent: Resources
 
 # GitHub
 
-**Please be aware that we will be using github.com instead of github.mit.edu.** You will all soon be invited to the [course's GitHub Classroom page](https://github.com/61040-fa22). <!-- Please check your account and let us know if you haven't been added! --> You may find it more convenient to add your MIT email address(es) to your [personal GitHub account](https://github.com/settings/emails) (see this [doc](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address#setting-your-commit-email-address-on-github) for more information) so that you can work more seamlessly across the two GitHubs with other classes.
+**Please be aware that we will be using github.com instead of github.mit.edu.** <!-- You will all soon be invited to the [course's GitHub Classroom page](https://github.com/61040-fa22).  Please check your account and let us know if you haven't been added! --> You may find it more convenient to add your MIT email address(es) to your [personal GitHub account](https://github.com/settings/emails) (see this [doc](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address#setting-your-commit-email-address-on-github) for more information) so that you can work more seamlessly across the two GitHubs with other classes.
 
 
 # SSH Tokens
