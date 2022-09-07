@@ -42,7 +42,7 @@ When you need to express something that isn’t expressible in markdown, it’s 
 
 A template is a file written in an extension of HTML that includes commands that generate HTML from the values of certain variables in scope. Templates are used by web frameworks for generating the pages that are returned by web requests; you can think of a template as a function from an environment (a collection of bindings of variables) to an HTML page. For example, a template might include the text
 
-	Welcome, <b>{{name}}</b>!
+	Welcome, <b>{{"{{"}}name}}</b>!
 
 This includes some standard HTML (eg, the bold tag) but also some special templating text, which is demarcated by the curly braces. Roughly speaking, templating text is treated as an expression to be evaluated. So in this case, the web app has presumably assigned to the variable *name* the string representing the user’s name.
 
