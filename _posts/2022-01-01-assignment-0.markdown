@@ -10,6 +10,8 @@ Your first assignment for 6.1040 is to create a minimal personal website that yo
 
 **Purpose:** This is an *ungraded* assignment, but the website you create will be the platform for your future submissions in this class. Also, by publishing your work on a website (rather than a less permanent medium like Canvas), you can use continue to use your site as a personal portfolio beyond this class. We have purposefully left the assignment specifications relatively open-ended so that you are free to make your website your own.
 
+## GitHub Repository
+Use this link to create a GitHub respository for your website: [https://classroom.github.com/a/_f8O60KV](https://classroom.github.com/a/_f8O60KV)
 
 ## Your Tasks
 1. Set up Jekyll on your machine.
