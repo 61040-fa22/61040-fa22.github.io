@@ -134,7 +134,7 @@ Do make good use of all the resources the class offers. We're here to help you!
 
 - For **administrative questions** (eg, regarding due dates or interpreting assignment instructions); for **technical questions** about programming or the various platforms; for **questions about ideas** taught in lecture; for **larger questions** about design whether or not directly related to lecture content; for **questions and feedback about the pedagogy** of the class: post publicly in the appropriate category in the class forum.
 - For help when you're **feeling confused** on a design or programming issue, and can't formulate a question, or would like advice on your design or code: go to TA lab hours. Please do not email the TAs individually to ask for help.
-- For a **personal issue** about grading, attendance, or team issues: send a private message to the staff on the class forum.
+- For a **personal issue** about grading, attendance, or team issues: send an email to the staff mailing list, 61040-staff@mit.edu.
 - For a personal problem or for **friendly life advice**: email a lecturer. We’d be delighted to chat with you.
 
 Students are sometimes wary of posting basic questions on Piazza, but bear in mind:
