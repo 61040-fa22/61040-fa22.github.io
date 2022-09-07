@@ -31,7 +31,7 @@ In order to clone the repositories we provide to you and push your code to them,
 
 ## GitHub Classroom
 
-We will be using GitHub Classroom to manage coding assignments, such as Fritter and the final project. This is the flow for those assignments.
+We will be using GitHub Classroom to manage coding assignments, such as your portfolio, Fritter and the final project. This is the flow for those assignments.
 
 1. Make sure you are logged into your github.com account and not github.mit.edu.
 2. In the assignment page, under Submission, there is an assignment link. Follow this link to start the process of accepting the assignment and creating your repo.
@@ -39,7 +39,8 @@ We will be using GitHub Classroom to manage coding assignments, such as Fritter 
 4. For the final project, you accept these by either creating or choosing a team.
     - Your team name should be [partner1-github-username]-[partner2-github-username]-[etc...]. The usernames should be ordered alphabetically; for example, "alex-brenda-clara-diane". The first person from your team to accept the assignment should create the team and others should look for the team in the team list and join.
 5. After you accept the assignment, a git repo will be created for you for the assignment and this is what you will use for submitting code for grading.
-6. After you are done with the assignment and all your code has been pushed (including a filled out readme.md if applicable), you will deploy your work, then go to your Jekyll site and add both the repo link and your site link.
+6. Once your repo is created, **go to the Settings tab of your repo, and change the repository name (under General) to match the form** `[kerberos]-portfolio` (or `[kerberos]-fritter` for the Fritter assignment). This is so the repo has an identifiable name.
+7. After you are done with the assignment and all your code has been pushed (including a filled out readme.md if applicable), you will deploy your work, then go to your Jekyll site and add both the repo link and your site link.
 
 We will also be using GitHub Classroom to give feedback on assignment code. Your final grades are posted on Canvas. Here is the flow for viewing assignment feedback on GitHub:
 
