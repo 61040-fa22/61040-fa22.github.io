@@ -4,7 +4,9 @@ layout: page
 permalink: /schedule
 ---
 
-L - Lecture / R - Recitation
+#### After each lecture and recitation, notes will be linked below.
+
+L - Lecture / R - Recitation <br>
 
 | Date        | Topic                                              | Assignment out                                            | Reading group |
 | ----------- | -------------------------------------------------- | --------------------------------------------------------- | ------------- |
