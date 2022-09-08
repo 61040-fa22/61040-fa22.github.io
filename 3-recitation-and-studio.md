@@ -24,12 +24,12 @@ Recitations are not assigned, and you can attend the section that works best for
 
 This is the schedule for the first week of classes (Wed 9/7 to Tue 9/13 inclusive). Subject to change after the first week!
 
-Location: Stata G tower 7th floor common area (right in front of the elevators)
-
-| Sun | 1-2pm | Zachary Deng|
-| Mon | 4-5pm| Shuli Jones |
-| Tue | 4-5pm | Annie Zhang |
-| Wed | none | |
-| Thu | 6-7pm, 7-8pm | Kathryn Jin, Mufaro Makiwa |
-| Fri | 3-4pm | Jaeyoon Song |
-| Sat | 4-5pm | Kailey Yang |
+| Date and Time | Location | TA                  |
+| --------------- | -------- | ------------------------------- |
+| Sun 1-2pm | 24-321 | Zachary Deng |
+| Mon 4-5pm | Stata G tower 7th Floor common area (in front of elevators) | Shuli Jones |
+| Tue 4-5pm | Stata G tower 7th Floor common area (in front of elevators) | Annie Zhang |
+| Wed none | |
+| Thu 6-8pm | Stata G tower 7th Floor common area (in front of elevators) | Kathryn Jin (6-7pm), Mufaro Makiwa (7-8pm) |
+| Fri 2-4pm | 24-321 | Cynthia Lin (2-3pm), Jaeyoon Song (3-4pm) |
+| Sat 4-5pm | 24-321 | Kailey Yang |
