@@ -5,3 +5,11 @@
 title: Assignments
 layout: assignments
 ---
+
+{% for assignment in site.assignments %}
+  <h2>
+    <a href="{{ assignment.url }}">
+      {{ assignment.title }}
+    </a>
+  </h2>
+{% endfor %}

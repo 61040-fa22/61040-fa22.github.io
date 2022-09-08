@@ -37,6 +37,10 @@ collections:
   lectures:
     output: true
     permalink: /lectures/:name
+  assignments:
+    output: true
+    permalink: /assignments/:title
+    sort_by: due-date
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
