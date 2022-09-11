@@ -6,7 +6,7 @@ $content-width:    1050px !default;
 @import "minima";
 
 .post-content {
-    overflow-x: scroll;
+    overflow-x: auto;
 }
 
 table tr:nth-child(3n+1) {
