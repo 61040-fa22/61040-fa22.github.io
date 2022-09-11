@@ -12,7 +12,7 @@ L - Lecture / R - Recitation <br>
 | ----------- | -------------------------------------------------------- | -------------------------------------------- | ------------- |
 | Wed, Sep 7  | [L: Intro to software design](/lectures/lecture-1)       | [A0: Jekyll Site](/assignments/assignment-0) |               |
 | Thu, Sep 8  | [R: Markdown/Jekyll + Themes](/recitations/recitation-1) |                                              | Ch 1          |
-| Mon, Sep 12 | L: Design for an audience                                | A1: Twitter Critique                         |               |
+| Mon, Sep 12 | L: Design for an audience                                | [A1: Twitter Critique](/assignments/assignment-1) |          |
 | Wed, Sep 14 | L: Need finding                                          |                                              |               |
 | Thu, Sep 15 | R: Napkin Sketches                                       |                                              | Ch 2 & 3      |
 | Mon, Sep 19 | L: Mental models                                         | A2: Fritter diverge                          |               |
