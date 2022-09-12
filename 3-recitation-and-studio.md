@@ -11,7 +11,7 @@ Each section’s room will most likely not change, but TAs will be updated based
 
 Recitations are not assigned, and you can attend the section that works best for you.
 
-| Recitation Time | Location | TA (for 9/8)                   |
+| Recitation Time | Location | TA (for 9/15)                  |
 | --------------- | -------- | ------------------------------ |
 | R10 (10am-11am) | 38-166   | Shuli Jones (jonsh@mit.edu)    |
 | R11 (11am-12pm) | 34-301   | Annie Zhang (annzhang@mit.edu) |
