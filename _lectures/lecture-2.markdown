@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lecture 2: Design for an audience"
+title: "Lecture 2: Need finding"
 ---
 
 [Slides]({{ site.url }}/assets/lecture-notes/L2.pdf)
