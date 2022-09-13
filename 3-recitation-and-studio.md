@@ -1,5 +1,5 @@
 ---
-title: Recitations and Studio Hours
+title: Recitation/Studio Hours
 layout: page
 ---
 
