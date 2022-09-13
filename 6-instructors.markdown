@@ -5,7 +5,7 @@ layout: page
 
 **Daniel Jackson (Lecturer)**
 
-I’m a prof of computer science. I research software design, with a focus on usability, safety, privacy and security. I love teaching and engaging with students. This class was first taught in 2011. Its origins are in 6.170, a project class that Barbara Liskov and John Guttag taught (and that I TA’d!) back in the 1980s. Over the last few years, Arvind and I have been boosting the design component of the class, which is our passion (as 6.031 has covered more of the basic tech). When I’m not teaching or doing research, I’m taking photos ([https://dnj.photo](https://dnj.photo)).
+I’m a prof of computer science. My research is about software design, with a focus on usability, safety, privacy and security. I taught this class for the first time in 2011, taking inspiration from 6.170, a project class that Barbara Liskov and John Guttag taught (and that I TA’d!) back in the 1980s. Over the last few years, Arvind and I have been boosting the design component of the class, which is our passion (as 6.031 has covered more of the basic tech). When I’m not teaching or doing research, I’m taking photos ([https://dnj.photo](https://dnj.photo)), and I write a [resilience postcard](https://portraitsofresilience.com/postcards/) every month (or so) that you can subscribe to. I always enjoy getting to know students, so do get in touch to chat about anything (or just to come by!). 
 
 ![prof_j.jpg](/assets/instructor-photos/prof_j.jpg){:width="200"}
 
