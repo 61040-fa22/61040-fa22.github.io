@@ -1,5 +1,5 @@
 ---
-title: Meet the Instructors
+title: Instructors
 layout: page
 ---
 
