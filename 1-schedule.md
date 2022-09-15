@@ -13,7 +13,7 @@ L - Lecture / R - Recitation <br>
 | Wed, Sep 7  | [L: Intro to software design](/lectures/lecture-1)       | [A0: Jekyll Site](/assignments/assignment-0) |               |
 | Thu, Sep 8  | [R: Markdown/Jekyll + Themes](/recitations/recitation-1) |                                              | Ch 1          |
 | Mon, Sep 12 | [L: Need finding](/lectures/lecture-2)                   | [A1: Twitter Critique](/assignments/assignment-1) |          |
-| Wed, Sep 14 | L: Value Sensitive Design                                |                                              |               |
+| Wed, Sep 14 | [L: Value Sensitive Design](/lectures/lecture-3)                                |                                              |               |
 | Thu, Sep 15 | R: Napkin Sketches                                       |                                              | Ch 2 & 3      |
 | Mon, Sep 19 | L: Software modularity                                   | A2: Fritter diverge                          |               |
 | Wed, Sep 21 | L: Automation, flexibility & errors                      |                                              |               |
