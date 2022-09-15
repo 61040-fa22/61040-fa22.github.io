@@ -111,7 +111,7 @@ Your grade is allocated as follows:
 - **Team project**: 30%. Except in unusual circumstances, all members of the team will receive the same grade.
 - **Community contributions**: 10%. 
 
-Each student has 5 slack days to be used as you choose, with the following restrictions: slack days may not be used on the team project, nor for the submission of the design review (which is part of the Design Refinement assignment). You are responsible for requesting **before** an assignment’s deadline however many slack days you plan to use for it.
+Each student has 5 slack days to be used as you choose, with the following restrictions: slack days may not be used on the team project, nor for the submission of the design review (which is part of the Design Refinement assignment). You are responsible for requesting **before** an assignment’s deadline however many slack days you plan to use for it. Use [this form](https://forms.gle/CHheiJq4XhA88rjWA) to request slack days.
 
 Once your slack days have run out, a late submission will cost 10% per day. So if you submit an assignment three days late that would have been worth 95% had you submitted it on time, you will receive 65% instead.
 
