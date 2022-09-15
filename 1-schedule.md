@@ -14,7 +14,7 @@ L - Lecture / R - Recitation <br>
 | Thu, Sep 8  | [R: Markdown/Jekyll + Themes](/recitations/recitation-1) |                                              | Ch 1          |
 | Mon, Sep 12 | [L: Need finding](/lectures/lecture-2)                   | [A1: Twitter Critique](/assignments/assignment-1) |          |
 | Wed, Sep 14 | [L: Value Sensitive Design](/lectures/lecture-3)                                |                                              |               |
-| Thu, Sep 15 | R: Napkin Sketches                                       |                                              | Ch 2 & 3      |
+| Thu, Sep 15 | [R: Napkin Sketches](/recitations/recitation-2)                                       |                                              | Ch 2 & 3      |
 | Mon, Sep 19 | L: Software modularity                                   | A2: Fritter diverge                          |               |
 | Wed, Sep 21 | L: Automation, flexibility & errors                      |                                              |               |
 | Thu, Sep 22 | R: Wireframing                                           |                                              | Ch 4 & 5      |
