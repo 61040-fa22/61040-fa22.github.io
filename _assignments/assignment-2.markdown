@@ -15,9 +15,6 @@ date: 2022-01-01 23:59:00 -0400
 - **Brainstorming**. Read over your report from the previous assignment, in which you explored flaws and unmet needs in Twitter. With these in mind, identify one or more problems to address, and come up with three design ideas. Each design idea can be a concept adjustment, adoption or invention. With the addition of three further ideas that you develop collaboratively later, you should have at least one in each category.
 - **Outlining**. Record each design idea in an informal outline for the adjusted, adopted or invented concept. First describe in a few words the problem you're addressing. Then outline the concept by giving (a) a short and compelling name for the concept; (b) a succinct purpose that captures the benefit that the concept brings; (c\) an operational principle (OP): an archetypal scenario of how the concept is used and fulfills its purpose.
 - **Sketching**. Provide a rough sketch of each design idea, either depicting a scenario or showing a user interface. Your sketches should have a clear correspondence to the operational principles in your outlines. Feel free to add labels or annotations to your sketches to make them clearer.
-<!--
-- **Specimen collecting**. Collect at least one screenshot for each of your concepts showing a similar or related idea in another app, and annotate the screenshot with short text labels to explain its relevance.
--->
 - **Exchanging**. Now get together with another student taking the class, and talk about your ideas with each other. Avoid saying anything negative or critical: focus on suggesting new ideas or extensions. No explicit record of this activity is required, but hopefully it will generate new ideas for the next activity.
 - **Augmenting**. Record three more ideas with concept outlines and sketches. These can be ideas that came up in discussion with your classmate, and the two of you can record the same ones (so long as you outline and sketch them separately). Remember that out of the six ideas in total you should end up with at least one in each of the three categories (adjust, adopt, invent).
 
@@ -31,10 +28,6 @@ date: 2022-01-01 23:59:00 -0400
 | **Concept invention** | Surprising and original concept idea that clearly addresses problem | Concept idea that is not used elsewhere but may be similar to existing concepts or address problem only obliquely | Concept already in Twitter, not new, not a concept at all, or fails to address problem
 | **Concept outline** | Pithy and informative name; compelling purpose that responds to a real need; OP tells strong story that demonstrates value and suggests likely usability; for adjustment, OP includes change; for adoption, OP includes context-specific details | Short, informative name; purpose expresses need/value; OP tells understandable and full story, includes change (in case of adjustment) and context-specific details (in case of adoption), but may be hard for users to understand or use | Name is clunky or obscure; purpose is unclear or summarizes behavior rather than need; OP is unclear, complicated or incomplete; for adjustment, OP doesn't explain change; for adoption, OP doesn't explain context-specific details
 | **Sketch** | Conveys concept idea convincingly and makes it easier to understand | Corresponds to concept outline and is understandable but adds little | Relationship to concept outline unclear or sketch is hard to interpret
-
-<!--
-| **Specimen** | Well-chosen screenshots that provoke new ideas; insightful annotations | Screenshots complement and enrich proposed ideas; helpful annotations | Screenshots not strongly related to ideas or suggestive; annotations belabor the obvious or hard to understand |
--->
 
 The qualitative judgments correspond roughly to grades of A (9/10), B (7.5/10), C (6.5/10).
 
