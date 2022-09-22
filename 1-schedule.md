@@ -20,13 +20,13 @@ L - Lecture / R - Recitation <br>
 | Thu, Sep 22 | R: Wireframing                                           |                                              | Ch 4 & 5      |
 | Mon, Sep 26 | L: Ethical design & dark patterns                        | A3: Fritter converge                         |               |
 | Wed, Sep 28 | L: Seeking simplicity                                    |                                              |               |
-| Thu, Sep 29 | R: Node / Sessions / Cookies                             |                                              | Ch 6          |
+| Thu, Sep 29 | R: RESTful APIs                                          |                                              | Ch 6          |
 | Mon, Oct 3  | L: Application state                                     | A4a: Fritter backend I, A5a: Fritter review  |               |
 | Wed, Oct 5  | L: Relational DBs + Schema Design                        |                                              |               |
-| Thu, Oct 6  | R: SQL and RDBs                                          |                                              | Ch 9          |
+| Thu, Oct 6  | R: Node / Sessions / Cookies                             |                                              | Ch 9          |
 | Mon, Oct 10 | _No class_                                               | A5b: Fritter refinement                      |               |
 | Wed, Oct 12 | L: Modularity decisions                                  |                                              |               |
-| Thu, Oct 13 | R: RESTful APIs                                          |                                              | Ch 10         |
+| Thu, Oct 13 | R: SQL and RDBs                                          |                                              | Ch 10         |
 | Mon, Oct 17 | L: TBD                                                   | A4b: Fritter backend II                      |               |
 | Wed, Oct 19 | L: User interface review                                 |                                              |               |
 | Thu, Oct 20 | R: HTML + CSS                                            |                                              | Ch 11         |
