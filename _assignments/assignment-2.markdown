@@ -5,6 +5,7 @@ categories: assignments
 due_date: 2022-09-25 23:59:00 -0400
 date: 2022-01-01 23:59:00 -0400
 ---
+**Important note**. Starting with Assignment 2, our submission policies have changed. In addition to publishing the assignment to your static site, you must now submit [this Google form](https://forms.gle/dGanRBvsFYFoQNGy8) to submit your assignment. See the class guide or the Discourse/Canvas announcement for more information about why we've made this change.
 
 **Overview**. In this assignment, you’ll generate a variety of provocative design ideas for Fritter, your Twitter clone, in response to some of the flaws and needs that you identified in Twitter in the previous assignment. A design idea belongs to one of three categories: it can be an *adjustment* of an existing Twitter concept, an *adoption* of a known concept from elsewhere, or an *invention* of a brand new concept. You’ll present your designs as concept outlines, along with rough sketches, first working alone to come up with initial ideas, and then working with a partner to brainstorm additional ideas together. The result will be six ideas in total, with at least one in each category.
 
