@@ -18,7 +18,7 @@ L - Lecture / R - Recitation <br>
 | Mon, Sep 19 | [L: Software modularity](/lectures/lecture-4)                                   | [A2: Fritter diverge](/assignments/assignment-2)                          |               |
 | Wed, Sep 21 | [L: Automation, flexibility & errors](/lectures/lecture-5)                      |                                              |               |
 | Thu, Sep 22 | R: Wireframing                                           |                                              | Ch 4 & 5      |
-| Mon, Sep 26 | L: Ethical design & dark patterns                        | A3: Fritter converge                         |               |
+| Mon, Sep 26 | L: Ethical design & dark patterns                        | [A3: Fritter converge](/assignments/assignment-3)                         |               |
 | Wed, Sep 28 | L: Seeking simplicity                                    |                                              |               |
 | Thu, Sep 29 | R: RESTful APIs                                          |                                              | Ch 6          |
 | Mon, Oct 3  | L: Application state                                     | A4: Fritter review and refinement  |               |
