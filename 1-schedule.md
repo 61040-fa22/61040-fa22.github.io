@@ -17,7 +17,7 @@ L - Lecture / R - Recitation <br>
 | Thu, Sep 15 | [R: Napkin Sketches](/recitations/recitation-2)                                       |                                              | Ch 2 & 3      |
 | Mon, Sep 19 | [L: Software modularity](/lectures/lecture-4)                                   | [A2: Fritter diverge](/assignments/assignment-2)                          |               |
 | Wed, Sep 21 | [L: Automation, flexibility & errors](/lectures/lecture-5)                      |                                              |               |
-| Thu, Sep 22 | R: Wireframing                                           |                                              | Ch 4 & 5      |
+| Thu, Sep 22 | [R: Wireframing](/recitations/recitation-3)                                           |                                              | Ch 4 & 5      |
 | Mon, Sep 26 | [L: Deceptive design & concept smells](/lectures/lecture-6)                        | [A3: Fritter converge](/assignments/assignment-3)                         |               |
 | Wed, Sep 28 | L: Seeking simplicity                                    |                                              |               |
 | Thu, Sep 29 | R: RESTful APIs                                          |                                              | Ch 6          |
