@@ -17,17 +17,17 @@ L - Lecture / R - Recitation <br>
 | Thu, Sep 15 | [R: Napkin Sketches](/recitations/recitation-2)                                       |                                              | Ch 2 & 3      |
 | Mon, Sep 19 | [L: Software modularity](/lectures/lecture-4)                                   | [A2: Fritter diverge](/assignments/assignment-2)                          |               |
 | Wed, Sep 21 | [L: Automation, flexibility & errors](/lectures/lecture-5)                      |                                              |               |
-| Thu, Sep 22 | R: Wireframing                                           |                                              | Ch 4 & 5      |
-| Mon, Sep 26 | L: Ethical design & dark patterns                        | A3: Fritter converge                         |               |
-| Wed, Sep 28 | L: Seeking simplicity                                    |                                              |               |
+| Thu, Sep 22 | [R: Wireframing](/recitations/recitation-3)                                           |                                              | Ch 4 & 5      |
+| Mon, Sep 26 | [L: Deceptive design & concept smells](/lectures/lecture-6)                        | [A3: Fritter converge](/assignments/assignment-3)                         |               |
+| Wed, Sep 28 | [L: Seeking simplicity](/lectures/lecture-7)                                    |                                              |               |
 | Thu, Sep 29 | R: RESTful APIs                                          |                                              | Ch 6          |
-| Mon, Oct 3  | L: Application state                                     | A4a: Fritter backend I, A5a: Fritter review  |               |
-| Wed, Oct 5  | L: Relational DBs + Schema Design                        |                                              |               |
+| Mon, Oct 3  | L: Application state                                     | A4: Fritter review and refinement  |               |
+| Wed, Oct 5  | L: Introduction to Backend Design                        |                                              |               |
 | Thu, Oct 6  | R: Node / Sessions / Cookies                             |                                              | Ch 9          |
-| Mon, Oct 10 | _No class_                                               | A5b: Fritter refinement                      |               |
+| Mon, Oct 10 | _No class_                                               | A5a: Fritter backend I                      |               |
 | Wed, Oct 12 | L: Modularity decisions                                  |                                              |               |
 | Thu, Oct 13 | R: SQL and RDBs                                          |                                              | Ch 10         |
-| Mon, Oct 17 | L: TBD                                                   | A4b: Fritter backend II                      |               |
+| Mon, Oct 17 | L: TBD                                                   | A5b: Fritter backend II                      |               |
 | Wed, Oct 19 | L: User interface review                                 |                                              |               |
 | Thu, Oct 20 | R: HTML + CSS                                            |                                              | Ch 11         |
 | Mon, Oct 24 | L: Reactive frameworks                                   | A6a: Fritter frontend I                      |               |

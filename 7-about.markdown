@@ -95,11 +95,11 @@ All of your individual work for the term will be recorded in a static website th
 
 **Technology.** Your website will be implemented with [Jekyll](https://jekyllrb.com) and hosted on [Github Pages](https://pages.github.com). An advantage of using a static website generator like Jekyll is that you can use a predesigned theme, and write your content in markdown so no knowledge of HTML and CSS is needed. But you will also be free to design your own visual appearance if you want to (by editing the HTML of the layout files and the CSS rules).
 
-**Submission of work**. No explicit submission process is needed for your assignments. You’ll provide the URL of your website early on, and your TAs will revisit the same URL to look at each piece of work. Comments and grades will be available on the class’s Canvas site. 
+**Submission of work: updated policy**. To submit each assignment, you should publish it to your website **and** submit [this Google form](https://forms.gle/dGanRBvsFYFoQNGy8), which will ask you for your website's URL and the last Git commit where you edited the assignment. The TAs will look at your website to see the assignment. Comments and grades will be available on the class’s Canvas site. 
 
 **Organization.** This is a design class, so we won’t specify how you organize or structure your site — that’s up to you! If your TA finds it hard to locate your work, you can expect your grade to be affected. One structural recommendation: if you choose to represent a large piece of work (for example, a whole assignment) as a single page, make sure that the sections have distinct URLs.
 
-**Versioning.** Obviously, we want you to feel free to make changes to your website, to correct errors, add new ideas, respond to reviews, and so on. But it would wreak havoc if you were to edit a page your TA is grading. So we require that once a piece of work is submitted, it not be modified **ever** again. To make a change to a piece of work, you should first make a copy, and then provide links on your site to both the old and new versions. 
+**Versioning.** Obviously, we want you to feel free to make changes to your website, to correct errors, add new ideas, respond to reviews, and so on. But it would wreak havoc if you were to edit a page your TA is grading. So we require that once a piece of work is submitted, it not be modified **ever** again. We enforce this by requiring that you submit the last Git commit where you edited that piece of work. To make a change to a piece of work, you should first make a copy, and then provide links on your site to both the old and new versions. 
 
 Modifying a page after submission is a violation of our honor code and will be taken very seriously.
 

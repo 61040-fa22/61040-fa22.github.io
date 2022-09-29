@@ -11,14 +11,14 @@ Each section’s room will most likely not change, but TAs will be updated based
 
 Recitations are not assigned, and you can attend the section that works best for you.
 
-| Recitation Time | Location | TA (for 9/15)                  |
+| Recitation Time | Location | TA (for 9/22)                  |
 | --------------- | -------- | ------------------------------ |
-| R10 (10am-11am) | 38-166   | Shuli Jones (jonsh@mit.edu)    |
+| R10 (10am-11am) | 38-166   | Annie Zhang (annzhang@mit.edu) |
 | R11 (11am-12pm) | 34-301   | Annie Zhang (annzhang@mit.edu) |
 | R12 (12pm-1pm)  | 34-301   | Annie Zhang (annzhang@mit.edu) |
 | R1 (1pm-2pm)    | 34-303   | Kathryn Jin (kjin@mit.edu)     |
 | R2 (2pm-3pm)    | 34-301   | Kathryn Jin (kjin@mit.edu)     |
-| R3 (3pm-4pm)    | 34-301   | Shuli Jones (jonsh@mit.edu)    |
+| R3 (3pm-4pm)    | 34-301   | Kathryn Jin (kjin@mit.edu)     |
 
 ## Studio Hours Schedule
 
