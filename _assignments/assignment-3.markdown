@@ -32,6 +32,10 @@ Here is an overview of the design work you'll do in this assignment. We expect t
 - **Wireframes**. Create a collection of wireframes that cover the essential views and interactions that a user would experience in using your app. Include a link to your live Figma models, and also some embedded screenshots (focusing on your most interesting concepts) with informative captions explaining them.
 - **Tradeoffs**. Using the notes that you took during your design process, pick at least 3 design decisions that you made in which you had to choose between multiple options. For each one, provide (a) a pithy title naming the issue; (b) an outline of what the various options were; (c\) a rationale for why you chose one option over the others. Try to keep your analysis below 300 words in total (for all the decisions).
 
+## Submission Process
+
+Submitting your work is a two-step task. First, post it to your Jekyll portfolio by the assignment deadline. The specific structure and format of the submission (e.g., adding it as a [blog post](https://jekyllrb.com/docs/posts/) or [page](https://jekyllrb.com/docs/pages/), splitting the deliverables across multiple posts/pages or consolidating them as a single one, the [permalink/URL](https://jekyllrb.com/docs/permalinks/) format, etc.) is left entirely up to you and is part of the ongoing design exercise of developing an attractive and usable portfolio. Second, submit [this Google form](https://forms.gle/dGanRBvsFYFoQNGy8) to finalize your assignment submission, also by the deadline. You must do both steps for us to consider your assignment submitted. 
+
 ## Rubric
 
 | *Part* | Excellent | Satisfactory | Poor
