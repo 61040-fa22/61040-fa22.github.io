@@ -20,7 +20,7 @@ L - Lecture / R - Recitation <br>
 | Thu, Sep 22 | [R: Wireframing](/recitations/recitation-3)                                           |                                              | Ch 4 & 5      |
 | Mon, Sep 26 | [L: Deceptive design & concept smells](/lectures/lecture-6)                        | [A3: Fritter converge](/assignments/assignment-3)                         |               |
 | Wed, Sep 28 | [L: Seeking simplicity](/lectures/lecture-7)                                    |                                              |               |
-| Thu, Sep 29 | R: RESTful APIs                                          |                                              | Ch 6          |
+| Thu, Sep 29 | [R: RESTful APIs](/recitations/recitation-4)                                          |                                              | Ch 6          |
 | Mon, Oct 3  | L: Application state                                     | A4: Fritter review and refinement  |               |
 | Wed, Oct 5  | L: Introduction to Backend Design                        |                                              |               |
 | Thu, Oct 6  | R: Node / Sessions / Cookies                             |                                              | Ch 9          |
