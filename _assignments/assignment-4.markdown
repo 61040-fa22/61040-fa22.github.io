@@ -44,7 +44,7 @@ Each of these tasks involves a summarization, whose structure is described in th
 **Modifications**. Your design modifications should consist of a bulleted list of changes. For each change, give a very brief overview of the change, and its justification (by reference to the review observations). Add to each of the critical observations in your self-review an annotation (eg, as a final sentence in italics) either noting that the criticism has been addressed by a change, or a reason not to address it (which might be that you just regard it as not sufficiently important, or too burdensome to address).
 
 **Mechanics**.
-- **Who am I reviewing?** For links to the designs you are reviewing, see the [spreadsheet](https://docs.google.com/spreadsheets/d/1M12151UPE0FXmE-73IvsRLQsytmWpRjko4MZj05DmDE/edit#gid=1017767146).
+- **Who am I reviewing?** For links to the designs you are reviewing, see the [spreadsheet](https://docs.google.com/spreadsheets/d/1M12151UPE0FXmE-73IvsRLQsytmWpRjko4MZj05DmDE/edit#gid=0).
 - **How do I submit reviews?** Just add each peer review as a separate post in your portfolio.
 - **How do I see reviews of my design?** The same spreadsheet has a tab that shows reviewers for each reviewee, so you just look the review up there sometime after the reviewing deadline.
 - **How do I submit the rest of my work?** Add a single document to your portfolio that includes your **review summary** (comprising your self-review and your summary of the peer reviews of your design), your list of **design modifications** and your **updated design**. Submit the URL to this document using [this form](https://forms.gle/KhBzoARBuA4dwxTv5).
