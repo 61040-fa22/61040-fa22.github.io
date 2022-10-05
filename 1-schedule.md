@@ -21,7 +21,7 @@ L - Lecture / R - Recitation <br>
 | Mon, Sep 26 | [L: Deceptive design & concept smells](/lectures/lecture-6)                        | [A3: Fritter converge](/assignments/assignment-3)                         |               |
 | Wed, Sep 28 | [L: Seeking simplicity](/lectures/lecture-7)                                    |                                              |               |
 | Thu, Sep 29 | [R: RESTful APIs](/recitations/recitation-4)                                          |                                              | Ch 6          |
-| Mon, Oct 3  | L: Application state                                     | [A4: Fritter review and refinement](/assignments/assignment-4)  |               |
+| Mon, Oct 3  | [L: Application state](/lectures/lecture-8)                                     | [A4: Fritter review and refinement](/assignments/assignment-4)  |               |
 | Wed, Oct 5  | L: Introduction to Backend Design                        |                                              |               |
 | Thu, Oct 6  | R: Node / Sessions / Cookies                             |                                              | Ch 9          |
 | Mon, Oct 10 | _No class_                                               | A5a: Fritter backend I                      |               |
