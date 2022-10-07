@@ -23,7 +23,7 @@ L - Lecture / R - Recitation <br>
 | Thu, Sep 29 | [R: RESTful APIs](/recitations/recitation-4)                                          |                                              | Ch 6          |
 | Mon, Oct 3  | [L: Application state](/lectures/lecture-8)                                     | [A4: Fritter review and refinement](/assignments/assignment-4)  |               |
 | Wed, Oct 5  | [L: Introduction to Backend Design](/lectures/lecture-9)                        |                                              |               |
-| Thu, Oct 6  | R: Node / Sessions / Cookies                             |                                              | Ch 9          |
+| Thu, Oct 6  | [R: Node / Sessions / Cookies](/recitations/recitation-5)                             |                                              | Ch 9          |
 | Mon, Oct 10 | _No class_                                               | A5a: Fritter backend I                      |               |
 | Wed, Oct 12 | L: Modularity decisions                                  |                                              |               |
 | Thu, Oct 13 | R: SQL and RDBs                                          |                                              | Ch 10         |
