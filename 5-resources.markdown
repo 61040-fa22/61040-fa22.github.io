@@ -12,7 +12,7 @@ layout: page
 {%- endfor -%}
 
 - [Express.js official documentation](https://expressjs.com/)
-- [express-session](https://www.npmjs.com/package/express-session)
+- [express-session official documentation](https://www.npmjs.com/package/express-session)
 - [Introduction to backend programming (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
 - [Express tutorial (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 - [Cookies (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
