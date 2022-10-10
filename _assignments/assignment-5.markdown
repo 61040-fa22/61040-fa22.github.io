@@ -44,6 +44,8 @@ However, one week in (i.e., by 11:59pm on Sun Oct 16), we would like you to make
 * A full working implementation for _one_ concept in your Fritter design. For the milestone, you do not need to worry about deployment; the implemented concept need only work locally.
 * An initial outline of the design of your RESTful routes for your remaining concepts. Add this outline to the `README.md` file, following the format the starter code already provides.
 
+To help make all parts of this assignment accessible, your portfolio should also provide prominent links to your Fritter backend code repository and deployed service.
+
 ## Submission
 
 For the milestone submission, follow the two-step process from previous assignments (i.e., post necessary material to your portfolio, and submit the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeS0cKbhu0JGUy1as6ObkDzvLoGnMdHPVht-os1uz7E0Vmbuw/viewform) to confirm your Git commit hash).
