@@ -5,20 +5,18 @@ layout: page
 
 ## Recitation Schedule
 
-Note: We will only be using one room per section despite what may be on the registrar.
-
-Each section’s room will most likely not change, but TAs will be updated based on recitation week + topic.
+Note: We will only be using one room per section despite what the registrar's course listing indicates.
 
 Recitations are not assigned, and you can attend the section that works best for you.
 
-| Recitation Time | Location | TA (for 9/22)                  |
-| --------------- | -------- | ------------------------------ |
-| R10 (10am-11am) | 38-166   | Annie Zhang (annzhang@mit.edu) |
-| R11 (11am-12pm) | 34-301   | Annie Zhang (annzhang@mit.edu) |
-| R12 (12pm-1pm)  | 34-301   | Annie Zhang (annzhang@mit.edu) |
-| R1 (1pm-2pm)    | 34-303   | Kathryn Jin (kjin@mit.edu)     |
-| R2 (2pm-3pm)    | 34-301   | Kathryn Jin (kjin@mit.edu)     |
-| R3 (3pm-4pm)    | 34-301   | Kathryn Jin (kjin@mit.edu)     |
+| Recitation Time | Location |
+| --------------- | -------- |
+| R10 (10am-11am) | 38-166   |
+| R11 (11am-12pm) | 34-301   |
+| R12 (12pm-1pm)  | 34-301   |
+| R1 (1pm-2pm)    | 34-303   |
+| R2 (2pm-3pm)    | 34-301   |
+| R3 (3pm-4pm)    | 34-301   |
 
 ## Studio Hours Schedule
 
