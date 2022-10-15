@@ -46,7 +46,7 @@ L - Lecture / R - Recitation <br>
 | Wed, Nov 23 |                                                          |                                              |               |
 | Thu, Nov 24 |                                                          |                                              |               |
 | Mon, Nov 28 |                                                          | Project beta                                 |               |
-| Wed, Nov 30 |                                                          |                                              |               |
+| Wed, Nov 30 | L: Code Review                                                          |                                              |               |
 | Thu, Dec 1  |                                                          |                                              |               |
 | Mon, Dec 5  |                                                          | Project final build                          |               |
 | Wed, Dec 7  |                                                          |                                              |               |
