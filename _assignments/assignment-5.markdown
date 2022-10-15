@@ -71,7 +71,7 @@ For the final submission, update or add new material to your portfolio. Then, su
 
 - **Relations over more than two sets**. You don't need to have relations that involve three or more sets, because you can always introduce a "tuple set" (like `Entry`, the set of entries in the UnixFolder example). 
 
-- **Multiplicities**. A relation can map an object in one set to any number of objects in another set: exactly one (in which case it represents a total function); zero or one (a partial function); or anu number (a general relation). Use the keywords `one`, `lone` and `set` for these three cases.
+- **Multiplicities**. A relation can map an object in one set to any number of objects in another set: exactly one (in which case it represents a total function); zero or one (a partial function); or any number (a general relation). Use the keywords `one`, `lone` and `set` for these three cases.
 
 - **Sequences**. There's no need for a special sequence constructor. A sequence of objects of some type `T` can be viewed as an ordering (a relation `T -> T`), or as a mapping from indexes to `T` (a relation Int -> T).
 
