@@ -26,7 +26,7 @@ L - Lecture / R - Recitation <br>
 | Thu, Oct 6  | [R: Node / Sessions / Cookies](/recitations/recitation-5)                             |                                              | Ch 9          |
 | Mon, Oct 10 | _No class_                                               | [A5: Fritter Backend](/assignments/assignment-5)   |               |
 | Wed, Oct 12 | [L: Modularity decisions](/lectures/lecture-10)                                  |                                              |               |
-| Thu, Oct 13 | R: SQL and RDBs                                          |                                              | Ch 10         |
+| Thu, Oct 13 | [R: SQL and RDBs](/recitations/recitation-6)                                          |                                              | Ch 10         |
 | Mon, Oct 17 | L: TBD                                                   |                   |               |
 | Wed, Oct 19 | L: User interface review                                 |                                              |               |
 | Thu, Oct 20 | R: HTML + CSS                                            |                                              | Ch 11         |

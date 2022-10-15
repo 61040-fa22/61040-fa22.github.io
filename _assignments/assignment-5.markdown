@@ -86,7 +86,7 @@ password: User -> one Password // one password for each user
 hint: User -> lone Hint // each user may have a password hint
 ```
 
-- **Instantiaton of generics**. In your application declaration, you should list each concept in the app, along with a list of types corresponding to its paraemters. These types should be types that come from other concepts, and should be referred to as `C.T`, where `C` is the concept and `T` is the type. For example, if your app included a generic Favorite concept in which the items being favorited were the freets from the Freet concept, and a Follower concept in which the parties following and being followed were the users of the User concept, and the published items were freets, you might write something like:
+- **Instantiaton of generics**. In your application declaration, you should list each concept in the app, along with a list of types corresponding to its parameters. These types should be types that come from other concepts, and should be referred to as `C.T`, where `C` is the concept and `T` is the type. For example, if your app included a generic Favorite concept in which the items being favorited were the freets from the Freet concept, and a Follower concept in which the parties following and being followed were the users of the User concept, and the published items were freets, you might write something like:
 
 ```
 app Fritter
