@@ -30,8 +30,8 @@ L - Lecture / R - Recitation <br>
 | Mon, Oct 17 | L: TBD                                                   |                   |               |
 | Wed, Oct 19 | [L: User interface review](/lectures/lecture-11)                                 |                                              |               |
 | Thu, Oct 20 | [R: HTML + CSS](/recitations/recitation-7)                                            |                                              | Ch 11         |
-| Mon, Oct 24 | L: Reactive frameworks                                   | [A6: Fritter frontend](/assignments/assignment-6)                       |               |
-| Wed, Oct 26 | L: Client-side components                                |                                              |               |
+| Mon, Oct 24 | [L: Reactive frameworks](/lectures/lecture-12)                                   | [A6: Fritter frontend](/assignments/assignment-6)                       |               |
+| Wed, Oct 26 | [L: Client-side components](/lectures/lecture-13)                                |                                              |               |
 | Thu, Oct 27 | R: Vue I                                                 |                                              | Ch 7          |
 | Mon, Oct 31 | L: Open Studio Hours                                |                       |               |
 | Wed, Nov 2  | L: User interface testing                                         |                                              |               |
