@@ -34,7 +34,7 @@ L - Lecture / R - Recitation <br>
 | Wed, Oct 26 | [L: Client-side components](/lectures/lecture-13)                                |                                              |               |
 | Thu, Oct 27 | [R: Vue I](/recitations/recitation-8)                                                 |                                              | Ch 7          |
 | Mon, Oct 31 | L: Open Studio Hours                                | [Project team formation](/assignments/assignment-p0)                      |               |
-| Wed, Nov 2  | L: User interface testing                                         |                                              |               |
+| Wed, Nov 2  | [L: User interface testing](/lectures/lecture-14)                                         |                                              |               |
 | Thu, Nov 3  | R: Vue II                                                |                                              | Ch 8          |
 | Mon, Nov 7  | L: Pitching projects                                     | Project diverge                              |               |
 | Wed, Nov 9  | L: TBD                                                   |                                              |               |
