@@ -1,9 +1,10 @@
 ---
-title: Final Project Overview
-layout: page
-parent: Resources
+layout: assignment
+title:  "Project Overview"
+categories: assignments
+date: 2022-01-09 23:59:00 -0400
 ---
-
+ 
 **Schedule**. Your final project will follow the steps you took in your individual assignments, following the schedule below.
 
 | Phase | Deliverable | Date due | Grade portion |
