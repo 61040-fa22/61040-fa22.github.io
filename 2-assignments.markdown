@@ -6,7 +6,7 @@ title: Assignments
 layout: assignments
 ---
 
-Use [this form](https://forms.gle/CHheiJq4XhA88rjWA) to request slack days on assignments. Please consult the [class guide](https://61040-fa22.github.io/about/) first to make sure you know how our slack policies work. 
+Use [this form](https://forms.gle/CHheiJq4XhA88rjWA) to request slack days on assignments. Please consult the [class guide](https://61040-fa22.github.io/about/) first to make sure you know how our slack policies work. We have released an overview of the full final project timeline and you can view it [here](https://61040-fa22.github.io/pages/final-project-overview.html).
 
 {% for assignment in site.assignments %}
   <h2>
