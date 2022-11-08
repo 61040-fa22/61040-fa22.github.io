@@ -36,7 +36,7 @@ When thinking about assigning tasks, you can divide the work for the project amo
 
 **Video format**. The format for the video is up to you. You might use traditional slides (eg, made with Google Slides, Keynote or Powerpoint); sketch on a tablet; write on a real MIT blackboard; and so on. Your video is limited to **four minutes** in total (and must cover all three designs), which is a typical length for a product pitch. Although you're encouraged to have fun with this and be creative, bear in mind that the focus should be on presenting your design ideas clearly, and we don't expect a major production. A simple recording of a narration over a handful of slides with some informative sketches will be sufficient.
 
-**Reviews**. After the videos have been presented, each team will review the videos of three other teams. Each review should address the following questions:
+**Reviews**. After the videos have been presented, each team will review the videos of some other teams. Your team will review as many other teams as there are members of your team (that is, if you’re a team of 4, your team will review 4 other teams). Each review should address the following questions:
 - Is the problem definition clear and compelling?
 - Are the concepts clear? Do they have straightforward and understandable purposes? Are the operational principles likely to be easy for users to execute?
 - Do the concepts form a coherent app that is likely to solve (or at least effectively address) the stated problem?

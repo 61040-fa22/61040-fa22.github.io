@@ -36,7 +36,7 @@ L - Lecture / R - Recitation <br>
 | Mon, Oct 31 | L: Open Studio Hours                                | [Project team formation](/assignments/assignment-p0)                      |               |
 | Wed, Nov 2  | [L: User interface testing](/lectures/lecture-14)                                         |                                              |               |
 | Thu, Nov 3  | [R: Vue II](/recitations/recitation-9)                                                |                                              | Ch 8          |
-| Mon, Nov 7  | L: Pitching projects                                     | [Project diverge](/assignments/assignment-p1)                              |               |
+| Mon, Nov 7  | [L: Pitching projects](/lectures/lecture-15)                                     | [Project diverge](/assignments/assignment-p1)                              |               |
 | Wed, Nov 9  | _No class_                                                   |                                              |               |
 | Thu, Nov 10 | R: Project problem analysis                              |                                              |               |
 | Mon, Nov 14 | L: Project pitches                                       | Project converge                             |               |
