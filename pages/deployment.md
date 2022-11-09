@@ -17,6 +17,8 @@ We recommend continuing to use Vercel since you all have experience with it from
 * Fill out Name of list, Description, and List owner (you can use the MIT username of any of your teammates). Leave the default options, and click next.
 * Confirm selections and click next.
 * Congrats, you have made a mailing list!
+
+
 ### Making accounts for your team
 * Now using the address associated with this list, [sign up](https://vercel.com/signup/email?) for a new Vercel account.
 * Sign up with your mailing list email, e.g. 61040-utas-test@mit.edu.
@@ -30,10 +32,12 @@ Heroku is more flexible than Vercel. So if your team is trying to utilize someth
 The student offer is only needed after Nov 28 when the free plan expires, but since it takes several days to get approval, we suggest you do it earlier.
 
 **Step 1. Sign up for [GitHub Student Developer Pack](https://education.github.com/discount_requests/pack_application)**
+
 This might take 1~3 days for approval from GitHub.
 
 
 **Step 2. Once you get approval from GitHub, apply for [Heroku Student Offer](https://www.heroku.com/github-students/signup)**
+
 It takes up to 24 hours for the credits to be applied to your account.
 
 ### Deploying your website
@@ -106,6 +110,7 @@ $ git push heroku branch-name:main
 ```
 
 **Step 7. Go to the settings tab of your app, and set the config variables**
+
 All the variables you had in your .env file should be updated here such as MONGO_SRV.
 
 ![config](https://i.imgur.com/7gAZRrm.png)
@@ -130,8 +135,5 @@ You will receive credits worth $13 USD per month for 12 months (for a total valu
 This option will require the most setup work but will also give you complete control over the environment your app is running in. You will need to start up an EC2 instance and install any software necessary to run your app. The [free tier](https://aws.amazon.com/free/) will be sufficient for this project.
 
 ## Personal VPS (difficulty: advanced)
-
-NOTE: I can delete this if this is too big brain -cynthia
-maybe this can be merged with the AWS section -zach
 
 If one of your team members manages their own virtual private server (VPS), consider asking them to host your group project there, as VPSes offer the most flexibility in supporting all sorts of server-side technologies. **However, you must have extensive system administration experience (Unix, Nginx/Apache, daemons) to proceed with this option**; most of the staff do not have experience hosting on VPSes and thus may not be able to fully support you. If you decide to proceed with this option, [pm2](https://pm2.keymetrics.io/) is a great tool for maintaining the uptime on the process running your webserver. 
