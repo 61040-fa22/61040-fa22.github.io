@@ -38,7 +38,7 @@ L - Lecture / R - Recitation <br>
 | Thu, Nov 3  | [R: Vue II](/recitations/recitation-9)                                                |                                              | Ch 8          |
 | Mon, Nov 7  | [L: Pitching projects](/lectures/lecture-15)                                     | [Project diverge](/assignments/assignment-p1)                              |               |
 | Wed, Nov 9  | _No class_                                                   |                                              |               |
-| Thu, Nov 10 | R: Project problem analysis                              |                                              |               |
+| Thu, Nov 10 | [R: Project problem analysis](/recitations/recitation-10)                              |                                              |               |
 | Mon, Nov 14 | L: Project pitches                                       | Project converge                             |               |
 | Wed, Nov 16 | _No class_                                       |                                              |               |
 | Thu, Nov 17 |                                                          |                                              |               |

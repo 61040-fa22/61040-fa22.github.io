@@ -7,7 +7,7 @@ date: 2022-01-09 23:59:00 -0400
 ---
 *Due 11:59pm, Sunday Nov 13 and 11:59pm Weds Nov 16*
 
-**Overview**. Your final project will follow (for the most part) the steps you took in your individual assignments; you can view the full timeline [here](https://61040-fa22.github.io/assignments/assignment-p0-overview.html). The first step is divergent design, which involves identifying the problem you intend to solve, and sketching out three ideas for possible solutions. You’ll submit this work in the form of a short video which will be played in class. As a team, you will then review the videos of three other teams. Your team’s convergent design phase will begin when the videos are due, and you will receive reviews of your video from other teams a few days later, in time to incorporate their ideas in your convergent design work.
+**Overview**. Your final project will follow (for the most part) the steps you took in your individual assignments; you can view the full timeline [here](https://61040-fa22.github.io/assignments/assignment-p0-overview.html). The first step is divergent design, which involves identifying the problem you intend to solve, and sketching out three ideas for possible solutions. You’ll submit this work in the form of a short video which will be played in class. As a team, you will then review the videos of other teams. Your team’s convergent design phase will begin when the videos are due, and you will receive reviews of your video from other teams a few days later, in time to incorporate their ideas in your convergent design work.
 
 **Deadlines**. Project pitch videos and team contracts are due at midnight on Sunday Nov 13, and videos will be presented in class the next day. Reviews are due (individually) at midnight on Weds Nov 16.
 
