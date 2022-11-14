@@ -39,7 +39,7 @@ L - Lecture / R - Recitation <br>
 | Mon, Nov 7  | [L: Pitching projects](/lectures/lecture-15)                                     | [Project diverge](/assignments/assignment-p1)                              |               |
 | Wed, Nov 9  | _No class_                                                   |                                              |               |
 | Thu, Nov 10 | [R: Project problem analysis](/recitations/recitation-10)                              |                                              |               |
-| Mon, Nov 14 | L: Project pitches                                       | Project converge                             |               |
+| Mon, Nov 14 | L: Project pitches                                       | [Project converge](/assignments/assignment-p2)                             |               |
 | Wed, Nov 16 | _No class_                                       |                                              |               |
 | Thu, Nov 17 |                                                          |                                              |               |
 | Mon, Nov 21 |                                                          | Project alpha                                |               |
