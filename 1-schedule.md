@@ -42,7 +42,7 @@ L - Lecture / R - Recitation <br>
 | Mon, Nov 14 | L: Project pitches                                       | [Project converge](/assignments/assignment-p2)                             |               |
 | Wed, Nov 16 | _No class_                                       |                                              |               |
 | Thu, Nov 17 |                                                          |                                              |               |
-| Mon, Nov 21 |                                                          | Project alpha                                |               |
+| Mon, Nov 21 |                                                          | [Project alpha](/assignments/assignment-p3)                                |               |
 | Wed, Nov 23 |                                                          |                                              |               |
 | Thu, Nov 24 |                                                          |                                              |               |
 | Mon, Nov 28 |                                                          | Project beta                                 |               |
