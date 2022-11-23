@@ -19,13 +19,13 @@ date: 2022-01-09 23:59:00 -0400
 | | Plan | Nov 20 | 1% |
 | Alpha release | Deploy/commit | Nov 23 | 5% |
 | Beta release | Deploy/commit | Dec 4 | 15% |
-|  | Design revision | Dec 4 | 10% |
-|  | User test | Dec 6 | 5% |
+|  | Design revision | Dec 4 | 5% |
+|  | User test | Dec 6 | 10% |
 | Final build | Deploy/commit | Dec 13 | 15% |
 |  | Design revision | Dec 13 | 10% |
 | Mentoring | Meetings | Weekly | 3% |
 
-**Grading**. The various components of the final project grade are shown in the table. Note that 55% of the grade is assigned to design work; 35% implementation work; 5% to user testing; and 5% to team management issues.
+**Grading**. The various components of the final project grade are shown in the table. Note that 50% of the grade is assigned to design work; 35% implementation work; 10% to user testing; and 5% to team management issues.
 
 Usually all members of a team will receive the same grade, but we reserve the right to adjust individual team members' grades based on distribution of work, participation in meetings, and understanding of the design. For each deadline, there will be no slack days and a 10% penalty for each day late turning in an assignment. No late handin for the final submission is possible.
 
