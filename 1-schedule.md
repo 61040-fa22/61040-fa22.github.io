@@ -45,7 +45,7 @@ L - Lecture / R - Recitation <br>
 | Mon, Nov 21 |                                                          | [Project alpha](/assignments/assignment-p3)                                |               |
 | Wed, Nov 23 |                                                          |                                              |               |
 | Thu, Nov 24 |                                                          |                                              |               |
-| Mon, Nov 28 |                                                          | Project beta                                 |               |
+| Mon, Nov 28 |                                                          | [Project beta](/assignments/assignment-p4)                                |               |
 | Wed, Nov 30 |                                                           |                                              |               |
 | Thu, Dec 1  |                                                          |                                              |               |
 | Mon, Dec 5  | L: Code Review                                                          | Project final build                          |               |
