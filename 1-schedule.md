@@ -52,4 +52,4 @@ L - Lecture / R - Recitation <br>
 | Wed, Dec 7  |                                                          |                                              |               |
 | Thu, Dec 8  |                                                          |                                              |               |
 | Mon, Dec 12 |                                                          |                                              |               |
-| Wed, Dec 14 |                                                          |                                              |               |
+| Wed, Dec 14 | L: Final Video Showcase                                                         |                                              |               |
